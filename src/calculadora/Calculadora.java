@@ -10,7 +10,7 @@ package calculadora;
  * @author redes
  */
 /*UNA POLLA EN VINAGRE LOCO*/
-
+/*LA TUYA MARICON*/
 public class Calculadora {
     private int num1;
     private int num2;

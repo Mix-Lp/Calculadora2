@@ -9,6 +9,8 @@ package calculadora;
  *
  * @author redes
  */
+/*UNA POLLA EN VINAGRE LOCO*/
+
 public class Calculadora {
     private int num1;
     private int num2;
